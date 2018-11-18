@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="351370" started-at="2018-11-18T16:52:49Z" finished-at="2018-11-18T16:58:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="351370" started-at="2018-11-18T16:52:49Z" finished-at="2018-11-18T16:58:40Z">
+      <class name="testcases.walletHubPageWithReportTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.walletHubPageWithReportTest@5b275dab]" name="setUp" is-config="true" duration-ms="11079" started-at="2018-11-18T22:22:49Z" finished-at="2018-11-18T22:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="walletHubPageTest()[pri:0, instance:testcases.walletHubPageWithReportTest@5b275dab]" name="walletHubPageTest" duration-ms="338873" started-at="2018-11-18T22:23:00Z" finished-at="2018-11-18T22:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- walletHubPageTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.walletHubPageWithReportTest@5b275dab]" name="tearDown" is-config="true" duration-ms="1403" started-at="2018-11-18T22:28:39Z" finished-at="2018-11-18T22:28:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=walletHubPageTest status=SUCCESS method=walletHubPageWithReportTest.walletHubPageTest()[pri:0, instance:testcases.walletHubPageWithReportTest@5b275dab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.walletHubPageWithReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
